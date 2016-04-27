@@ -32,7 +32,7 @@ max-height: 100%;
   width: 1598px;
   height: 1000px;
   opacity: 0.9;
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0QCAE/backgroud_1.png");
+  background-image: url("/assets/stadium.png");
 }
 
 p.Whats-in-the-Box{
@@ -89,7 +89,7 @@ p.Sign-Up{
   height: 886px;
   /*-webkit-filter: blur(4px);*/
  /* filter: blur(4px);*/
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F14109UMD/fanboxo_baseball_official.png");
+  background-image: url("/assets/box.png");
 }
 
 .Mask {
@@ -113,7 +113,7 @@ p.Sign-Up{
 .Boy_Pitching {
   width: 1600px;
   height: 804px;
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13LUTY65/background_4.jpg");
+  background-image: url("/assets/boy.png");
 }
 
 .Filter_Footer {
@@ -144,7 +144,7 @@ p.Sign-Up{
 }
 
 .Mask {
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0NZ5Y/background_3.jpg");
+  background-image: url("/assets/field.png");
 }
 
 .Pricing {

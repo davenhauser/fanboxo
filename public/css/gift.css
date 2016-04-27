@@ -11,7 +11,7 @@
 /*  opacity: 0.4;*/
   background-color: #000000;
   border: solid 1px #979797;
-  background-image: url("file:///Users/davenhauser/Desktop/General%20Assembly/PMI/Depositphotos_13929153_original.jpg");
+  background-image: url("/assets/inside_stadium.png");
   background-size: 100%;
 }
 .Rectangle-185-Copy {
@@ -27,17 +27,17 @@
   opacity: 0.5;
   background-color: rgba(45, 36, 36, 0.9);
   border: solid 1px #979797;
-  background-image: url("file:///Users/davenhauser/Desktop/General%20Assembly/PMI/Depositphotos_13929153_original.jpg")
-
+  background-image: url("/assets/girls.png");
+  background-size: 100%;
 }
 
 .Rectangle-82 {
   width: 1599px;
   height: 1000px;
-  opacity: 0.5;
-  background-color: rgba(45, 36, 36, 0.9);
+/*  opacity: 0.5;
+*/  background-color: rgba(45, 36, 36, 0.9);
   border: solid 1px #979797;
-  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13TVHT18/fanboxo_hot_line_bling.png");
+  background-image: url("/assets/grass.png");
   background-size: 100%;
 }
 
