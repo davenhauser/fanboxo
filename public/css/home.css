@@ -1,0 +1,401 @@
+/**,
+html,
+body {
+  box-sizing: border-box;
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-size: 14px;
+  padding: 50px;
+}
+
+a { color: #00B7FF; }
+*/
+
+body {
+max-width: 100%;
+max-height: 100%;
+}
+
+.wrapper{
+}
+
+.Filter_Nav_Rectangle {
+  width: 1599px;
+  height: 106.9px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, rgba(233, 135, 50, 0.9), #040404);
+}
+
+.DOYER_STADIUM {
+  width: 1598px;
+  height: 1000px;
+  opacity: 0.9;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0QCAE/backgroud_1.png");
+}
+
+p.Whats-in-the-Box{
+margin: 0 auto;
+}
+
+p.How-it-Works{
+  margin: 0 auto;
+}
+
+p.Sign-Up{
+  margin: 0 auto;
+}
+.orange_divider1 {
+  width: 1600px;
+  height: 55px;
+  opacity: 0.8;
+  background-color: #f9a800;
+}
+
+.orange_divider2 {
+  width: 1600px;
+  height: 55px;
+  background-color: #4c93c4;
+}
+
+.orange_divider3 {
+  width: 1599px;
+  height: 55px;
+  background-color: #f9a800;
+}
+
+.orange_divider4 {
+  width: 1600px;
+  height: 55px;
+  background-color: #f9a800;
+}
+
+.orange_divider {
+  width: 1599px;
+  height: 55px;
+  background-color: #f9a800;
+}
+
+.Rectangle-266 {
+  width: 1600px;
+  height: 115px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, #f77b00, #000000);
+}
+
+.FANBOXO_BASEBALL {
+  width: 1595px;
+  height: 886px;
+  /*-webkit-filter: blur(4px);*/
+ /* filter: blur(4px);*/
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F14109UMD/fanboxo_baseball_official.png");
+}
+
+.Mask {
+  width: 1600px;
+  height: 675px;
+  background-color: #d8d8d8;
+}
+
+.Masked_Rectangle {
+  width: 1600px;
+  height: 115px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, #f77b00, #000000);
+}
+
+.Hot_Line_Bling {
+  width: 1600px;
+  height: 998px;
+}
+
+.Boy_Pitching {
+  width: 1600px;
+  height: 804px;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13LUTY65/background_4.jpg");
+}
+
+.Filter_Footer {
+  width: 1600px;
+  height: 194px;
+  opacity: 0.7;
+  background-image: linear-gradient(to bottom, #f77b00, #ffffff);
+  border: solid 1px #979797;
+}
+
+
+.Whats-in-the-Box {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.5px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.How-it-Works {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.5px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.Mask {
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13M0NZ5Y/background_3.jpg");
+}
+
+.Pricing {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.3px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.Sign-Up {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  letter-spacing: 6.3px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.logo {
+  width: 218px;
+  height: 144px;
+  position: relative;
+  top: -7.8em;
+}
+
+.GET-A-BOX {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -7.8em;
+  left: 13.7em;
+}
+
+.GIVE-A-BOX {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -10.1em;
+  left: 23.7em;
+}
+
+.About-Us {
+  width: 124px;
+  height: 47px;
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -12.5em;
+  left: 34.5em;
+}
+
+.logo_F {
+  width: 218px;
+  height: 144px;
+  position: relative;
+  top: 0.8em;
+}
+.GET-A-BOX_F {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -3.2em;
+  left: 13.7em;
+}
+
+.GIVE-A-BOX_F {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -5.6em;
+  left: 23.7em;
+}
+
+.About-Us_F {
+  width: 124px;
+  height: 47px;
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: -8em;
+  left: 34.5em;
+}
+
+.Fanboxo-Fanboxo-20 {
+  font-family: .HelveticaNeueDeskInterface-MediumP4;
+  font-size: 19px;
+  line-height: 1.1;
+  color: #ffffff;
+  position: relative;
+  top: -2em;
+  left: 1em;
+}
+
+.Official-Los-Angeles {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  color: #ffffff;
+  position: relative;
+  top: -9em;
+  left: 4.7em;
+}
+
+.Delivered-Monthly {
+  font-family: Futura-Medium;
+  font-size: 48px;
+  line-height: 0.4;
+  color: #ffffff;
+  position: relative;
+  top: -9.5em;
+  left: 4.7em;
+}
+
+.A-Monthly-Mystery-Box {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  letter-spacing: -0.2px;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.Free-Shipping {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.No-Commitment {
+  font-family: Futura-Medium;
+  font-size: 36px;
+  line-height: 0.5;
+  color: #ffffff;
+  position: relative;
+  top: -11.5em;
+  left: 6.3em;
+}
+
+.FANBOXO_DODGERS {
+  width: 730px;
+  height: 753px;
+  position: relative;
+  left: 48em;
+  top: -43em;
+}
+
+.Every-month-we-curate {
+  width: 907px;
+  height: 271px;
+  font-family: Futura-Medium;
+  font-size: 36px;
+  letter-spacing: 3.2px;
+  color: #ffffff;
+  position: relative;
+  top: 1.5em;
+  left: 12em;
+}
+
+.Receive-exclusive {
+  width: 1137px;
+  height: 47px;
+  font-family: Futura-Medium;
+  font-size: 36px;
+  color: #ffffff;
+  position: relative;
+  top: 1em;
+  left: 6em;
+}
+
+.circle-wrap{
+position: relative;
+left: 24em;
+top: 3em;
+}
+
+.circle{
+  width: 116.7px;
+  height: 126px;
+  background: white;
+  border: none;
+  border-radius: 50%;
+  margin-right: 2em;
+}
+
+.big-circle-wrap{
+position: relative;
+top: 2em;
+left: 8em;
+}
+
+.big-circle  {
+  width: 237.3px;
+  height: 235px;
+  border-radius: 50%;
+  width: 235px;
+  height: 235px;
+  margin-left: 139px;
+}
+
+.text-wrap{
+position: relative;
+top: 2em;
+left: 3em;
+}
+
+.big-text-wrap{
+position: relative;
+top: 2em;
+left: 3em;
+}
+
+.steps{
+width: 155.4px;
+height: 47px;
+font-family: Futura-Medium;
+font-size: 36px;
+color: #ffffff;
+position: relative;
+top: 0.5em;
+margin-left: 310px;
+}
+
+.block{
+display: block;
+}
+
+.container {
+  display: flex;
+}
+
+.steps2{
+width: 340.1px;
+height: 141px;
+font-family: Futura-Medium;
+font-size: 36px;
+color: #ffffff;
+position: relative;
+top: 1.8em;
+left: 7em;
+margin-left: 50px;
+}

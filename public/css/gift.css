@@ -1,0 +1,61 @@
+.Filter_Nav_Rectangle {
+  width: 1600px;
+  height: 110px;
+  opacity: 0.5;
+  background-image: linear-gradient(to bottom, #ec7f01, #040404);
+}
+
+.Rectangle-52 {
+  width: 1600px;
+  height: 720px;
+/*  opacity: 0.4;*/
+  background-color: #000000;
+  border: solid 1px #979797;
+  background-image: url("file:///Users/davenhauser/Desktop/General%20Assembly/PMI/Depositphotos_13929153_original.jpg");
+  background-size: 100%;
+}
+.Rectangle-185-Copy {
+  width: 1600px;
+  height: 69px;
+  background-color: #ee8103;
+  border: solid 1px #979797;
+}
+
+.Rectangle-81 {
+  width: 1599px;
+  height: 835px;
+  opacity: 0.5;
+  background-color: rgba(45, 36, 36, 0.9);
+  border: solid 1px #979797;
+  background-image: url("file:///Users/davenhauser/Desktop/General%20Assembly/PMI/Depositphotos_13929153_original.jpg")
+
+}
+
+.Rectangle-82 {
+  width: 1599px;
+  height: 1000px;
+  opacity: 0.5;
+  background-color: rgba(45, 36, 36, 0.9);
+  border: solid 1px #979797;
+  background-image: url("https://files.slack.com/files-pri/T03SRC3A7-F13TVHT18/fanboxo_hot_line_bling.png");
+  background-size: 100%;
+}
+
+.Rectangle-37 {
+  width: 1600px;
+  height: 204.4px;
+  background-color: #312f38;
+}
+
+.Gift_Divider {
+  width: 1600px;
+  height: 55px;
+  background-color: #f88501;
+}
+
+.logo_gift {
+  width: 218px;
+  height: 144px;
+  position: relative;
+  top: -3.5em;
+}
