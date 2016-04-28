@@ -1,4 +1,4 @@
-![Fanboxo](/Users/davenhauser/Desktop/General Assembly/PMI/final pictures/logo2.png)
+![Fanboxo](http://i.imgur.com/J9OTFKU.png)
 ##About Fanboxo
 Fanboxo is a monthly subscription service delivering 3 to 5 officially licensed products for your favorite team, curated arount a theme, every month.
 
@@ -11,12 +11,12 @@ Unfortunately, during the development phase, we ran into a series of issues, whi
 
 ##The Journey
 
-We started the fanboxo project using **Ruby on Rails** and **Shopify**. We set up a very basic Shopify App and deployed it to Heroku. This initial phase can be seen under [fanboxo.herokuapp.com](https://fanboxo.herokuapp.com/login) and the GitHub Repository for it can be found [here](https://github.com/davenhauser/fanboxo_app).
+We started the fanboxo project using **Ruby on Rails** and **Shopify**. We set up a very basic Shopify App and deployed it to Heroku. This initial phase can be seen under [fanboxo.herokuapp.com](https://fanboxo.herokuapp.com/login) and the GitHub Repository for it can be found [here](http://i.imgur.com/9mkBlTE.jpg).
 
 We then  switched to **Node.js** because using **Angular.js** with its **ui-Router**  allowed us to set up a SPA (single-page application) in less time. 
 
 
-Currently the **CSS** and **HTML** for the Homepage and Giftpage can be viewed and accessed [here](https://github.com/davenhauser/fanboxo).
+Currently the **CSS** and **HTML** for the Homepage and Giftpage can be viewed and accessed [here](http://i.imgur.com/dg4i3Ew.jpg).
 
 ![](
 /Users/davenhauser/Desktop/General Assembly/PMI/final pictures/howitworks.png)
@@ -44,7 +44,7 @@ A new deployment to Heroku failed, possibly because of the lack of a database in
 [ ] Implement Shopify for checkout and shipping.  
 [ ] Deploy app and make accessible through www.fanboxo.com.  
 
-![Boy pitching](http://postimg.org/image/4ajszfrn5/)
+![Boy pitching](http://i.imgur.com/tb6emGf.jpg)
 
 
 
