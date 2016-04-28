@@ -1,4 +1,4 @@
-![Fanboxo](http://i.imgur.com/J9OTFKU.png)
+<!-- ![Fanboxo](http://i.imgur.com/J9OTFKU.png)
 ##About Fanboxo
 Fanboxo is a monthly subscription service delivering 3 to 5 officially licensed products for your favorite team, curated arount a theme, every month.
 
@@ -44,7 +44,7 @@ A new deployment to Heroku failed, possibly because of the lack of a database in
 [ ] Implement Shopify for checkout and shipping.  
 [ ] Deploy app and make accessible through www.fanboxo.com.  
 
-![Boy pitching](http://i.imgur.com/tb6emGf.jpg)
+![Boy pitching](http://i.imgur.com/tb6emGf.jpg) -->
 
 
 
