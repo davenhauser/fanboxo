@@ -44,7 +44,7 @@ A new deployment to Heroku failed, possibly because of the lack of a database in
 [ ] Implement Shopify for checkout and shipping.  
 [ ] Deploy app and make accessible through www.fanboxo.com.  
 
-![Boy pitching](/Users/davenhauser/Desktop/General Assembly/PMI/final pictures/boypitching.png)
+![Boy pitching](http://postimg.org/image/4ajszfrn5/)
 
 
 
